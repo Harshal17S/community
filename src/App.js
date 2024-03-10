@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Sidebar from "./components/Sidebar";
 import ReviewForm from "./components/ReviewForm";
 import { Routes, Route } from 'react-router-dom';
-const apiKey = "b0e9bc5a328da6304b658548035914ddd00f8ab1bc676c79";
+const apiKey = "b0e9bd096b8af16d49368c1a070912ded5098ee6ec346e2a";
 
 function App() {
 
