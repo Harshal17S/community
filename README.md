@@ -35,8 +35,7 @@ OrgConnect is a social media platform where users can create communities and gro
 ### Creating Categories : 
 - Users can add categories in their communities.
 
-# Video :
-- Youtube : https://youtu.be/3cNeoHDMGyk
+
 
 
 # Built With : 
